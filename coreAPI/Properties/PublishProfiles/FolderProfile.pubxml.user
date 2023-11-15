@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\CoreAPIDemo</_PublishTargetUrl>
+    <History>True|2023-02-17T16:32:52.5695754Z;True|2023-02-17T09:11:53.6611333-05:00;False|2023-02-16T14:34:12.4425441-05:00;True|2023-02-16T12:21:35.7835605-05:00;False|2023-02-16T12:14:01.2606118-05:00;True|2022-06-23T13:39:12.4533187-04:00;False|2022-06-23T13:38:06.1276582-04:00;True|2022-02-17T14:29:02.0884614-05:00;True|2022-02-17T14:27:35.1828029-05:00;True|2022-02-17T12:01:41.4868129-05:00;True|2021-12-23T15:10:59.7179113-05:00;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="UserDB">
+      <Value>Server=DEV-VDI-04\SQLEXPRESS%3bDatabase=UserDB%3bTrusted_Connection=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
